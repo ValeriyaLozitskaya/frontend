@@ -1,0 +1,27 @@
+h1{
+  text-align:center;
+  text-transform: uppercase;
+}
+
+.fig{
+  width: auto;
+  height: auto;
+  text-align: center;
+}
+
+.ol{
+  margin-left: 27%;
+}
+
+hr{
+  margin-left: 27%;
+  margin-right: 27%;
+}
+ul{ margin-left: 24%;
+}
+li{
+   list-style-position: inside;
+ }
+.on{
+  list-style-type: none;
+}
